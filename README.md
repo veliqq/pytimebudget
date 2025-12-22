@@ -17,7 +17,6 @@ Just import it and use it.
 - 📦 **Per-project isolation** - each project gets its own database automatically
 - ⚡ **Async support** - works with `async with`
 - 🧠 **Safe by default** – never crashes your code
-- 🔕 **Opt-out anytime** via environment variable
 
 
 ---
